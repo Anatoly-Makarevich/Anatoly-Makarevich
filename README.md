@@ -1,4 +1,4 @@
-👋 Hi, I’m @Anatoly-Makarevich, a data scientist at [EPAM Systems](https://www.epam.com/).
+👋 Hi, I’m @Anatoly-Makarevich, a data scientist formerly at [EPAM Systems](https://www.epam.com/).
 
 👀 I’m interested mainly in Time Series Forecasting and ML Engineering.
 
